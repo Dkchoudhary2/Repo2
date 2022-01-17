@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E885-6E2F
+
+ Directory of C:\Users\home\Desktop\MyProject-GIT
+
+01/16/2022  11:37 PM    <DIR>          .
+01/16/2022  11:37 PM    <DIR>          ..
+01/16/2022  11:37 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  98,505,609,216 bytes free
